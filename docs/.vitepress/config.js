@@ -1,5 +1,5 @@
 export default {
-    base: '/',
+    base: '/vitepress-starter/',
     title: 'VitePress',
     description: 'Just playing around.'
 }
